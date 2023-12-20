@@ -1,0 +1,55 @@
+#h1 {border: solid;
+	padding-left: 40em;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+#burger {
+width: 300px;
+padding-left: 35em;
+padding-top: 10em;
+
+}
+body {
+    background-color: bisque;
+}
+#burger #top-bun {
+height: 80px;
+border-radius:  900px 900px 10px 10px;
+background-color: #A27732;
+}
+#burger #lettuce {
+border-radius: 8px;
+background-color: green;
+height: 8px;
+}
+
+#burger #tomato {
+border-radius: 10px;
+background-color: red;
+height: 15px;
+}
+
+#burger #onion {
+border-radius: 8px;
+background-color: #B95381;
+height: 13px;
+}
+
+#burger #cheese {
+background-color: yellow;
+border-radius: 10px;
+height: 15px;
+}
+
+#burger #beef {
+border-radius: 15px;
+background-color: #603102;
+height: 30px;
+}
+
+#burger #bottom-bun {
+background-color: #A27732;
+border-radius: 10px 10px 50px 50px;
+height: 60px;
+}
